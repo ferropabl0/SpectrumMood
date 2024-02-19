@@ -2,5 +2,7 @@ This repository contains an app developed for the Mobile Programming and Multime
 
 Authors:
   Celia Díaz
+  
   Pablo Fernández
+  
   Manuel Avilés
